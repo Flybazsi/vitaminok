@@ -65,3 +65,10 @@ img:hover {
     display: flow-root;
     box-shadow: 4px 4px 8px rgba(99, 9, 8);
 }
+.text-block {
+    bottom: 20px;
+    right: 20px;
+    color: black;
+    padding-left: 145px;
+    padding-top: 20px;
+}
