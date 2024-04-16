@@ -34,3 +34,10 @@ body {
     display: flow-root;
     margin-bottom: 20px;
 }
+h1 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+    text-shadow: 4px 4px 8px gray;
+    text-decoration-line: underline;
+}
