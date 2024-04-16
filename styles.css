@@ -41,3 +41,8 @@ h1 {
     text-shadow: 4px 4px 8px gray;
     text-decoration-line: underline;
 }
+p {
+    font-size: 16px;
+    color: black;
+    line-height: 1.5;
+}
